@@ -3,6 +3,8 @@
 
 The only markdown editor you will ever need.
 
+<a href="https://ibb.co/0XfNmpV"><img src="https://i.ibb.co/cvN5kKX/google-pixelbook-mockup.png" alt="google-pixelbook-mockup" border="0" /></a>
+
 ## Features
 
 ### Save Your Files
